@@ -1,0 +1,71 @@
+commit af282fce7b2c274ea75a6b049d1188eafe0faf0a
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Thu Feb 16 19:14:14 2023 +0000
+
+    improve some code and add some comments in code
+
+commit d6e1fe50b959a49f64023a5b96716f02149584a9
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Thu Feb 16 17:20:39 2023 +0000
+
+    update the final task in assignment1
+
+commit 215357b34478740edaa426f58773e6da084dcf3a
+Author: Sun, Yuxin <ys19042@essex.ac.uk>
+Date:   Wed Feb 15 10:38:14 2023 +0000
+
+    change a litte wrong word in comment in code
+
+commit 218a2fcecdad9e7d645778172dc9385f03677772
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Wed Feb 15 10:32:56 2023 +0000
+
+    upload the task2 total code in assignment1
+
+commit 9091d707cea54bbd73c06e13ec1762248a30501f
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Mon Feb 13 22:23:16 2023 +0000
+
+    implement project main 1 7-segment decoder
+
+commit afd5a89f1c3d1ccdd249e962465816bf863b8cc7
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Mon Feb 13 19:31:05 2023 +0000
+
+    assignment1 part1 7-segment_decoder
+
+commit 5c97cefdbe2efee32fc4f99bd2216829bb16402c
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Mon Feb 13 17:52:53 2023 +0000
+
+    Update main1&main2&unfinished main 3 code in assignment1
+
+commit 842d56c9d2a8d2e975bf74f4cbc6abc7c427793c
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Sat Feb 11 01:05:18 2023 +0000
+
+    update the left code in lab2
+
+commit a2d91276a78abdbbd64f6b1e66659bc18f2fa739
+Author: Sun <ys19042@essex.ac.uk>
+Date:   Fri Feb 10 15:16:27 2023 +0000
+
+    update some code of lab2
+
+commit f7a6940091c19dda07218ec4f18bd7bab20c59c8
+Author: login@essex.ac.uk <login@essex.ac.uk>
+Date:   Thu Feb 9 17:27:39 2023 +0000
+
+    upload part code in lab2
+
+commit 879d224da3248a9adfb2035d62f4398a8677d574
+Author: CSEE Gitlab Administrator <root@cseegit.essex.ac.uk>
+Date:   Wed Jan 11 14:47:13 2023 +0000
+
+    Deleting testfile now that master branch has been created
+
+commit ca694db7d9c4aeda82a88ca5109718c9be8efd56
+Author: Administrator <ces-faults@essex.ac.uk>
+Date:   Wed Jan 11 14:47:13 2023 +0000
+
+    Create testfile to force master branch creation

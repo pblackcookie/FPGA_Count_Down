@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Feb 16 19:37:04 2023
+# Process ID: 12828
+# Current directory: F:/0_MYHOMEWORK/33_CE339/1111/22-23_CE339_sun_yuxin/assignment1_main1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18300 F:\0_MYHOMEWORK\33_CE339\1111\22-23_CE339_sun_yuxin\assignment1_main1\assignment1_main1.xpr
+# Log file: F:/0_MYHOMEWORK/33_CE339/1111/22-23_CE339_sun_yuxin/assignment1_main1/vivado.log
+# Journal file: F:/0_MYHOMEWORK/33_CE339/1111/22-23_CE339_sun_yuxin/assignment1_main1\vivado.jou
+# Running On: DESKTOP-MGFRI4V, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 4, Host memory: 17028 MB
+#-----------------------------------------------------------
+start_gui
+open_project F:/0_MYHOMEWORK/33_CE339/1111/22-23_CE339_sun_yuxin/assignment1_main1/assignment1_main1.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
